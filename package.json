@@ -1,0 +1,18 @@
+{
+  "name": "qap2-fsjs-id",
+  "version": "1.0.0",
+  "description": "qap2",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "date-fns": "^2.30.0",
+    "openweather-api-node": "^3.1.1",
+    "uuid": "^9.0.0"
+  }
+}
